@@ -1,0 +1,9 @@
+Package: com.ahmadsalah.dockclear
+Name: Dock Clear
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: AhmadSalah
+Author: AhmadSalah
+Section: Tweaks
